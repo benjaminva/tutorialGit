@@ -1,3 +1,5 @@
+// este es un comentario 
+
 #include "JuegoP.h"
 #include "JuegoMesa.h"
 #include "VideoJuego.h"
